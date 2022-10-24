@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196012480060",
+    "project_id": "mysopline",
+    "storage_bucket": "mysopline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196012480060:android:1333f158c43a26d091d539",
+        "android_client_info": {
+          "package_name": "com.example.ows_myshopline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196012480060-n6s70nfi3kmmphd1c6633nlgr44505c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ows_myshopline",
+            "certificate_hash": "77bd03d6c3b7bf670100501756e92c8f8f1fe85a"
+          }
+        },
+        {
+          "client_id": "196012480060-3vk56as54ja0uthl437f52vk7qrkjcs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_iFaJHmWW-61Hu8PxuMV-1ceheJXEhN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196012480060-3vk56as54ja0uthl437f52vk7qrkjcs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
